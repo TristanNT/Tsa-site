@@ -1,4 +1,4 @@
-Goal of this Github
+Goals of this Github
 	To collaborate on the site
 	To share code
 	To track progress
